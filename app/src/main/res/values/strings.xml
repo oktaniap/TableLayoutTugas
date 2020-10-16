@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TableLayoutTugas</string>
+    <string name="ini_kiri">INI KIRI</string>
+    <string name="ini_kanan">INI KANAN</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="masuk">MASUK</string>
+</resources>
